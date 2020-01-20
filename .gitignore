@@ -70,4 +70,7 @@ local.properties
 
 .sts4-cache/
 
+# zip files
+*.zip
+
 # End of https://www.gitignore.io/api/eclipse
